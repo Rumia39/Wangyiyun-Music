@@ -1,7 +1,7 @@
 # Wangyiyun-Music
 使用了vue,axios,vue-router,vuex,vant4，网易云音乐api，移动端音乐网页（仿网易云）
 请搭配网易云音乐api使用：https://github.com/Binaryify/NeteaseCloudMusicApi
-/n已完成功能：首页；
+已完成功能：首页；
             头部导航组件：
             左侧用户状态栏；
             右侧搜索功能（搜索歌曲并播放，保留搜索的历史记录，可删除历史记录）；
